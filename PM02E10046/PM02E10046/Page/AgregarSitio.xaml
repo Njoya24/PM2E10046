@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM02E10304.Page.AgregarSitio">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Agregar sitios visitados"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            </Frame>
+
+            <Image Source="logo.png" x:Name="imagen" HorizontalOptions="Center" HeightRequest="100" WidthRequest="60" />
+            <Button Text="Cargar Imagen" x:Name="btncargarimg" Clicked="btncargarimg_Clicked_1" />
+
+            <Label FontSize="13" >
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="Latitud: "/>
+                            <Span x:Name="lbllatitud"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+            <Label FontSize="13" >
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="Longitud: "/>
+                            <Span x:Name="lbllongitud" />
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+            <Entry Placeholder="Ingrese la descripcion del sitio" x:Name="describir" MaxLength="80" />
+
+            <Button Text="Agregar" x:Name="btnagregar" Clicked="btnagregar_Clicked"/>
+            <Button Text="Lista sitios" x:Name="btnlista" Clicked="btnlista_Clicked" />
+            
+            
+
+
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
