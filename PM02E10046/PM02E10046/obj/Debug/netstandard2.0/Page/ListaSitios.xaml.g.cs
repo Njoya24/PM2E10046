@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PM02E10304.Page.ListaSitios.xaml", "Page/ListaSitios.xaml", typeof(global::PM02E10304.Page.ListaSitios))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PM02E10046.Page.ListaSitios.xaml", "Page/ListaSitios.xaml", typeof(global::PM02E10046.Page.ListaSitios))]
 
-namespace PM02E10304.Page {
+namespace PM02E10046.Page {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Page\\ListaSitios.xaml")]

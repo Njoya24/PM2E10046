@@ -1,12 +1,12 @@
-﻿using PM02E10304.Controlador;
-using PM02E10304.Page;
+﻿using PM02E1004t6.Controlador;
+using PM02E1004t6.Page;
 using System;
 using System.IO;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace PM02E10304
+namespace PM02E1004t6
 {
     public partial class App : Application
     {

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PM02E10304.Page.AgregarSitio.xaml", "Page/AgregarSitio.xaml", typeof(global::PM02E10304.Page.AgregarSitio))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PM02E10046.Page.AgregarSitio.xaml", "Page/AgregarSitio.xaml", typeof(global::PM02E10046.Page.AgregarSitio))]
 
-namespace PM02E10304.Page {
+namespace PM02E10046.Page {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Page\\AgregarSitio.xaml")]

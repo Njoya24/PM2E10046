@@ -1,11 +1,11 @@
-﻿using PM02E10304.Entidades;
+﻿using PM02E10046.Entidades;
 using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PM02E10304.Controlador
+namespace PM02E10046.Controlador
 {
     public class BDSite
     {

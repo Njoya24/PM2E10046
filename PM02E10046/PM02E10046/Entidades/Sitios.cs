@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PM02E10304.Entidades
+namespace PM02E10046.Entidades
 {
     public class Sitios
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10304\\PM02E10304\\PM02E10304.csproj": {}
+    "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10046\\PM02E10046\\PM02E10046.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10304\\PM02E10304\\PM02E10304.csproj": {
+    "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10046\\PM02E10046\\PM02E10046.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10304\\PM02E10304\\PM02E10304.csproj",
-        "projectName": "PM02E10304",
-        "projectPath": "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10304\\PM02E10304\\PM02E10304.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10046\\PM02E10046\\PM02E10046.csproj",
+        "projectName": "PM02E10046",
+        "projectPath": "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10046\\PM02E10046\\PM02E10046.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10304\\PM02E10304\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\OneDrive\\UTH\\Programacion Movil 2\\Examen I Parcial\\PM2E10046\\PM02E10046\\PM02E10046\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PM02E10304.App.xaml", "App.xaml", typeof(global::PM02E10304.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PM02E10046.App.xaml", "App.xaml", typeof(global::PM02E10046.App))]
 
-namespace PM02E10304 {
+namespace PM02E10046 {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]

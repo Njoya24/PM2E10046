@@ -5,7 +5,7 @@ using System.Diagnostics;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace PM02E10304.Page
+namespace PM02E10046.Page
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ListaSitios : ContentPage

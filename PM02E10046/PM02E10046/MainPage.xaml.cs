@@ -1,4 +1,4 @@
-﻿using PM02E10304.Page;
+﻿using PM02E10046.Page;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace PM02E10304
+namespace PM02E10046
 {
     public partial class MainPage : ContentPage
     {
